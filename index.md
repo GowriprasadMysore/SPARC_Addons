@@ -2,12 +2,11 @@
 
 ### Initial lessons in mridangam
 
-[basic exercises to play with good timbre](https://youtu.be/biXasK3X2EI)
-[Learning to play the following rhythmic syllables](https://www.youtube.com/watch?v=hlJXnyEupDs&t=49s)
-[Playing the following rhythmic syllables with clarity](https://www.youtube.com/watch?v=EpD0LYmhQkI&list=PLBjXyeBZLWCUAaiRn4dNlf_atzoiz_ofv&index=4)
-
-[llustration of how Adi Tala is played in the Pudukottai school](https://youtu.be/8OmSC0TL8YQ?t=1272)
-[Learning to play combinations of rhythmic syllables on mridangam](https://youtu.be/hlJXnyEupDs?t=1067)
+1. [basic exercises to play with good timbre](https://youtu.be/biXasK3X2EI)
+2. [Learning to play the following rhythmic syllables](https://www.youtube.com/watch?v=hlJXnyEupDs&t=49s)
+3. [Playing the following rhythmic syllables with clarity](https://www.youtube.com/watch?v=EpD0LYmhQkI&list=PLBjXyeBZLWCUAaiRn4dNlf_atzoiz_ofv&index=4)
+4. [llustration of how Adi Tala is played in the Pudukottai school](https://youtu.be/8OmSC0TL8YQ?t=1272)
+5. [Learning to play combinations of rhythmic syllables on mridangam](https://youtu.be/hlJXnyEupDs?t=1067)
 
 
 There is also the concept of Nadais, which refer to the the playing of continuous rounds of the tala cycles during the Tani Avartanam or percussion solo. K S Kalidas illustrates examples of this Nadai in different tempos :
