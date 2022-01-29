@@ -7,14 +7,15 @@
 3. [Playing the following rhythmic syllables with clarity](https://www.youtube.com/watch?v=EpD0LYmhQkI&list=PLBjXyeBZLWCUAaiRn4dNlf_atzoiz_ofv&index=4)
 4. [llustration of how Adi Tala is played in the Pudukottai school](https://youtu.be/8OmSC0TL8YQ?t=1272)
 5. [Learning to play combinations of rhythmic syllables on mridangam](https://youtu.be/hlJXnyEupDs?t=1067)
+6. [Importance of the left side head thoppi](https://youtu.be/7u-hiSKwUd8?t=255)
 
 
-There is also the concept of Nadais, which refer to the the playing of continuous rounds of the tala cycles during the Tani Avartanam or percussion solo. K S Kalidas illustrates examples of this Nadai in different tempos :
-[Chauka Kala Nadai (slow tempo)](https://youtu.be/fk07KY7lPlo?t=3864)
-[Madyama Kala Nadai (medium tempo)](https://youtu.be/fk07KY7lPlo?t=3907)
-[Dhurita Kala Nadai (fast tempo), all in Adi Tala](https://youtu.be/fk07KY7lPlo?t=3953)
 
-[Importance of thoppi](https://youtu.be/7u-hiSKwUd8?t=255)
+The concept of Nadais, with the illustrates examples in different tempos :
+1. [Chauka Kala Nadai (slow tempo)](https://youtu.be/fk07KY7lPlo?t=3864)
+2. [Madyama Kala Nadai (medium tempo)](https://youtu.be/fk07KY7lPlo?t=3907)
+3. [Dhurita Kala Nadai (fast tempo), all in Adi Tala](https://youtu.be/fk07KY7lPlo?t=3953)
+
 
 
 ### Schools of percussion mridangam bani and tabla gharanas
@@ -30,7 +31,7 @@ This section provides an example audio/video for the mridangam accompaniment for
 2. [Instrumental Accompaniment](https://youtu.be/RcUGppUD2J8?t=1412)
 3. [Alapana no mridangam](https://youtu.be/hECvvLVgDIU)
 4. [Neraval](https://youtu.be/0kFLHBihXbY)
-5. [Swara Kalpana](https://youtu.be/Peg8m5Jb2b0)
+5. [Swara Kalpana - 1](https://youtu.be/Peg8m5Jb2b0) [Swara Kalpana - 2](https://youtu.be/U-vThKPxv6U?t=3027)
 6. [during singing of Tanam(mainly in Kerala)](https://youtu.be/vJBF3AM_an4?t=1039)
 7. [during Pallavi (part of a Ragam Tanam Pallavi)](https://youtu.be/Jph6jzZM72A?t=16)
 8. [here is an instance of the mridangam responding to the kalpana svara improvisation](https://youtu.be/NInq5v472zs?t=1067)
@@ -40,27 +41,24 @@ This section provides an example audio/video for the mridangam accompaniment for
 
 
 ### Tani-avartanam --- Mridangam solo
-[Tani Avartanam](https://www.youtube.com/user/indiandrumbeats/videos)
-[Tani avartanam by Trichi Shankaran](https://www.youtube.com/watch?v=5OX2TuHmtSI)
-[Elements and structure of Tani Avartanam](https://youtu.be/2hIAK8XGIT4)
+
+A few examples of tani-avartanam and their elements
+1. [Tani Avartanam](https://www.youtube.com/user/indiandrumbeats/videos)
+2. [Tani avartanam by Trichi Shankaran](https://www.youtube.com/watch?v=5OX2TuHmtSI)
+3. [Theermanams](https://youtu.be/8OmSC0TL8YQ?t=3688)
+4. [Farans](https://youtu.be/fk07KY7lPlo?t=5540)
+5. [Format of Mohra](https://youtu.be/d8_NvS3DJ2E?t=244)
+6. [Example for mohra](https://youtu.be/fk07KY7lPlo?t=5577)
+7. [Kuraippu](https://youtu.be/mGFxqw7nIcs) can be translated as “rhythmic descent” or “step by step reduction”. 
+8. [Korapu in Adi Tala](https://youtu.be/iZXfx7pRJ5s)
+9. [Rhythmic Descent in Karnatic Music — Principles, Practice and standardization by Mannarkoil Balaji](https://www.academia.edu/36662438/Rhythmic_Descent_in_Karnatic_Music_Principles_Practice_and_standardization)
 
 
-
-
-
-[Kuraippu](https://youtu.be/mGFxqw7nIcs) can be translated as “rhythmic descent” or “step by step reduction”. In singing, the concept of kuraippu happens during [kalpana swaras](https://youtu.be/U-vThKPxv6U?t=3027) improvisation while kuraippu is mostly used in Percussion Solo before the Farans. “ [2] It is also used in Theermanams, Mohras and Korvais
-[Korapu in Adi Tala](https://youtu.be/iZXfx7pRJ5s)
-[Rhythmic Descent in Karnatic Music — Principles, Practice and standardization by Mannarkoil Balaji](https://www.academia.edu/36662438/Rhythmic_Descent_in_Karnatic_Music_Principles_Practice_and_standardization)
-
-[Theermanams](https://youtu.be/8OmSC0TL8YQ?t=3688)
-
-[Farans](https://youtu.be/fk07KY7lPlo?t=5540)
-[Format of Mohra](https://youtu.be/d8_NvS3DJ2E?t=244)
-[Example for mohra](https://youtu.be/fk07KY7lPlo?t=5577)
 
 
 Analysis of a Tani Avartanam — Percussion Solo
 Let us see these fundamental concepts of come to life in this wonderful percussion solo played by Palani Subramania Pillai, the legendary mridangam maestro of the Puddukottai school; his student K S Kalidas helps us understand these facets as they unfold :
+[Elements and structure of Tani Avartanam](https://youtu.be/2hIAK8XGIT4)
 
 [Start of Thani in slower speed with Theermanams](https://www.youtube.com/watch?v=dG1LZ5-RDoU)
 [Changes Nadai to Tisram , multiple sequences of mridangam and ghatam](https://youtu.be/dG1LZ5-RDoU?t=260)
