@@ -58,7 +58,6 @@ A few examples of tani-avartanam and their elements
 
 
 ## Tabla
-
 ### Initial lessons in tabla
 1. [Basic strokes](https://chandrakantha.com/tablasite/bsicbols.htm)
 2. [Hand posture and basics](https://www.youtube.com/watch?v=mLB4qblMi9M)
