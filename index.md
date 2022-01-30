@@ -48,10 +48,7 @@ A few examples of tani-avartanam and their elements
 8. [Korapu - 1](https://youtu.be/mGFxqw7nIcs) can be translated as “rhythmic descent” or “step by step reduction”. 
 9. [Korapu - 2](https://youtu.be/iZXfx7pRJ5s)
 
-#### Analysis of a Tani-avartanam
-Artise: Palani Subramania Pillai, the legendary mridangam maestro of the Puddukottai school; 
-Interpreter: K S Kalidas (Student of Palani Subramania Pillai)
-
+#### Analysis of a Tani-avartanam by K S Kalidas (Student of Palani Subramania Pillai)
 * [Start of Thani in slower speed with Theermanams](https://www.youtube.com/watch?v=dG1LZ5-RDoU)
 * [Changes Nadai to Tisram , multiple sequences of mridangam and ghatam](https://youtu.be/dG1LZ5-RDoU?t=260)
 * [Comes back to Chatusra Nadai and does Kuraippu](https://youtu.be/dG1LZ5-RDoU?t=664)
