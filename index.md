@@ -101,11 +101,22 @@ Interpreter: K S Kalidas (Student of Palani Subramania Pillai)
 
 
 
+### Additional readings and references
+1. [Tala](https://www.wikiwand.com/en/Tala_(music))
+2. [THE ART OF ACCOMPANIMENT - TABLA-SANGAT](https://www.india-instruments.com/the-art-of-accompaniment-tabla-sangat-with-ashis-paul.html)
+3. [Korapu](https://www.academia.edu/36662438/Rhythmic_Descent_in_Karnatic_Music_Principles_Practice_and_standardization) - Rhythmic Descent in Karnatic Music — Principles, Practice and standardization by Mannarkoil Balaji
+4. [Balasaraswati: Her Art and Life] (https://www.amazon.com/Balasaraswati-Douglas-M-Knight-Jr/dp/9387578127/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) 
+5. [Nad - Understanding Raga music](https://www.amazon.in/Nad-BPI-India/dp/8186982078/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+6. [Tabla: A Performer’s Perspective](https://aneeshpradhan.com/product/tabla-a-performers-perspective/) - Aneesh Pradhan
+7. [Solo Tabla Drumming of North India](https://www.amazon.in/Solo-Tabla-Drumming-North-India/dp/8120810953) - Robert S. Gottlieb
+8. [The Art of Tabl ̄a Rhythm: Essentials, Tradition, and Creativity](https://www.amazon.in/Art-Tabla-Rhythm-Essentials-Creativity/dp/8124603685) - Sudhir Kumar Saxena
+9. [Resounding Mridangam: The Majestic South-Indian Drum](https://www.amazon.in/Resounding-Mridangam-Majestic-South-Indian-Drum/dp/B08XXZXRDY/ref=sr_1_1?crid=QKB7KG8E9WM3&keywords=Resounding+Mridangam%3A+The+Majestic+South+Indian+Drum.&qid=1643544233&s=books&sprefix=resounding+mridangam+the+majestic+south+indian+drum.+%2Cstripbooks%2C350&sr=1-1) - Erickavu N Sunil
+
 
 
 ### Additional listening
 [Additional listening Percussive accompaniment](https://youtu.be/5ieDfX2-sM8?t=882)
-[Listen to varnam Mohamana in Bhairavi ](https://youtu.be/71nuLFVXzjc) (a recording from one of T.Balasaraswati ‘s dance recitals shared by her cousin T Sankaran); we hear the raga being played by the clarinet prior to the start of the varnam ; In the biography [ Balasaraswati:Her Art and Life] (https://www.amazon.com/Balasaraswati-Douglas-M-Knight-Jr/dp/9387578127/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) 
+[Listen to varnam Mohamana in Bhairavi ](https://youtu.be/71nuLFVXzjc) (a recording from one of T.Balasaraswati ‘s dance recitals shared by her cousin T Sankaran); we hear the raga being played by the clarinet prior to the start of the varnam ; In the biography 
 
 Maratha traditions such as Kathas, [Bhajans](https://youtu.be/8ON3q8XXyLQ) and folk dances [(Lavani)](https://youtu.be/GOEJZslEu6I) ; Tanjore was ruled by Marathas between 17–19th centuries. 
 [Bhajana](https://youtu.be/6rUJEr7cCb0?t=356)
@@ -113,11 +124,9 @@ Maratha traditions such as Kathas, [Bhajans](https://youtu.be/8ON3q8XXyLQ) and f
 
 [Nadaswaram and thavil renditions](https://www.youtube.com/playlist?list=PLTxTDSSOEwjJuaQo6dHHJQFA0aIAa1f-T)
 
-[Tala](https://www.wikiwand.com/en/Tala_(music))
 
 
-[Korapu](https://www.academia.edu/36662438/Rhythmic_Descent_in_Karnatic_Music_Principles_Practice_and_standardization) - Rhythmic Descent in Karnatic Music — Principles, Practice and standardization by Mannarkoil Balaji
 
-[THE ART OF ACCOMPANIMENT - TABLA-SANGAT](https://www.india-instruments.com/the-art-of-accompaniment-tabla-sangat-with-ashis-paul.html)
+
 
 
