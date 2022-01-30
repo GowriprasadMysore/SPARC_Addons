@@ -62,22 +62,43 @@ Interpreter: K S Kalidas (Student of Palani Subramania Pillai)
 
 
 ### Initial lessons in tabla
-[Basic strokes](https://chandrakantha.com/tablasite/bsicbols.htm)
-[Hand posture and basics](https://www.youtube.com/watch?v=mLB4qblMi9M)
+1. [Basic strokes](https://chandrakantha.com/tablasite/bsicbols.htm)
+2. [Hand posture and basics](https://www.youtube.com/watch?v=mLB4qblMi9M)
+3. [Basic bols](https://www.youtube.com/watch?v=fbIm5y0pxr8)
 
-### Basics in Tabla
-[ Teen Taal, by zakir hussain](https://youtu.be/rlCWnGwWqXk?t=173)
-[Basic theka for instrumental by zakir hussain](https://youtu.be/rlCWnGwWqXk?t=204)
+### Basic tal in Tabla
+1. [Teen taal, by zakir hussain](https://youtu.be/rlCWnGwWqXk?t=173)
+2. [Teen taal](https://www.youtube.com/watch?v=RYm_mjrxquo)
+3. [Ektaal](https://www.youtube.com/watch?v=-6VpKG1Iq_Y)
+
+
+### Tabla gharana
+1. [Introduction to tabla gharana](https://www.youtube.com/watch?v=Z_eAB6M5YOs)
+2. [Introduction to tabla gharana - 2](https://www.youtube.com/watch?v=RbVtqIao1BI)
+3. [Dilli gharana](https://www.youtube.com/watch?v=Yx0LO281JNs)
+4. [Lucknow gharana](https://www.youtube.com/watch?v=PcZZppKMY9w&list=PLmUEimMp8KrqrrYra5ZyNautodEEF7Q7k&index=6)
+5. [Benares gharana](https://www.youtube.com/watch?v=U2JIb90p-44)
+6. [Ajrada gharana](https://scroll.in/article/820739/listen-habibuddin-khan-of-the-ajrada-gharana-displays-his-mastery-and-wit-with-the-tabla)
+7. [Farrukhabad gharana](https://youtu.be/S6v9hsuPpa4?t=26)
+8. [Punjab gharana](https://www.youtube.com/watch?v=RL90kOckPAY)
+9. [Ti Re Ki Ta by Zakir Hussain](https://youtu.be/q4u0AEl7xHw)
 
 
 ### Tabla accompaniments
-[Cross rhythms](https://youtu.be/-2RycKJJKQY?t=1707)
-[Vocal Accompaniment](https://youtu.be/-2RycKJJKQY?t=1847)
-[Explanation of Theka by Zakir Hussain](https://youtu.be/rlCWnGwWqXk?t=155)
-[Explanation of Theka by Trichy Shankaran](https://youtu.be/8OmSC0TL8YQ?t=1176)
+
+1. [Vocal Accompaniment](https://youtu.be/-2RycKJJKQY?t=1847)
+2. [Basic theka for instrumental by zakir hussain](https://youtu.be/rlCWnGwWqXk?t=204)
+3. [Cross rhythms](https://youtu.be/-2RycKJJKQY?t=1707)
+4. [Explanation of Theka by Zakir Hussain](https://youtu.be/rlCWnGwWqXk?t=155)
+5. [Explanation of Theka by Trichy Shankaran](https://youtu.be/8OmSC0TL8YQ?t=1176)
 
 ### Tabla solo
-[Structure of tabla solo](https://youtu.be/rlCWnGwWqXk?t=215)
+1. [Structure of tabla solo](https://youtu.be/rlCWnGwWqXk?t=215)
+2. [Tabla solo concert - Zakir Hussain](https://www.youtube.com/watch?v=ZtRPB8xHP8M)
+3. [Tabla solo - Pt. Kishan Maharaj (Benaras gharana)](https://www.youtube.com/watch?v=YDpbRSRB0zE)
+4. [Tabla solo by various artistes](https://www.youtube.com/playlist?list=PLeMnggaMTpf1g6kq9fjhOAVIVecf3YQ6O)
+
+
 
 
 
