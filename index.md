@@ -67,9 +67,11 @@ Interpreter: K S Kalidas (Student of Palani Subramania Pillai)
 3. [Basic bols](https://www.youtube.com/watch?v=fbIm5y0pxr8)
 
 ### Basic tal in Tabla
-1. [Teen taal, by zakir hussain](https://youtu.be/rlCWnGwWqXk?t=173)
-2. [Teen taal](https://www.youtube.com/watch?v=RYm_mjrxquo)
-3. [Ektaal](https://www.youtube.com/watch?v=-6VpKG1Iq_Y)
+1. [Basics of taal and teen taal](https://www.youtube.com/watch?v=X1YmwoeBwYk)
+2. [Concept of taal](https://www.youtube.com/watch?v=xcPUnpOLDYM)
+3. [Teen taal, by zakir hussain](https://youtu.be/rlCWnGwWqXk?t=173)
+4. [Teen taal](https://www.youtube.com/watch?v=RYm_mjrxquo)
+5. [Ektaal](https://www.youtube.com/watch?v=-6VpKG1Iq_Y)
 
 
 ### Tabla gharana
