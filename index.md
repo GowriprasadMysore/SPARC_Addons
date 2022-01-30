@@ -8,7 +8,7 @@
 4. [Rhythmic stroke combinations](https://youtu.be/hlJXnyEupDs?t=1067)
 5. [Importance of the left side head thoppi](https://youtu.be/7u-hiSKwUd8?t=255)
 
-The concept of Nadais, with the illustrates examples in different tempi all in adi tala:
+##### The concept of Nadais, with the illustrates examples in different tempi all in adi tala:
 1. [Chauka Kala Nadai (slow tempo)](https://youtu.be/fk07KY7lPlo?t=3864)
 2. [Madyama Kala Nadai (medium tempo)](https://youtu.be/fk07KY7lPlo?t=3907)
 3. [Dhurita Kala Nadai (fast tempo)](https://youtu.be/fk07KY7lPlo?t=3953)
@@ -24,11 +24,14 @@ The concept of Nadais, with the illustrates examples in different tempi all in a
 3. [Alapana no mridangam](https://youtu.be/hECvvLVgDIU)
 4. [Neraval](https://youtu.be/0kFLHBihXbY)
 5. [Swara Kalpana - 1](https://youtu.be/Peg8m5Jb2b0) [Swara Kalpana - 2](https://youtu.be/U-vThKPxv6U?t=3027)
-6. [during singing of Tanam(mainly in Kerala)](https://youtu.be/vJBF3AM_an4?t=1039)
+6. [Tanam(mainly in Kerala)](https://youtu.be/vJBF3AM_an4?t=1039)
 7. [Theermanams in kritis](https://youtu.be/FG8qGgXZDNY?t=1069)
-8. [during Pallavi (part of a Ragam Tanam Pallavi)](https://youtu.be/Jph6jzZM72A?t=16)
-9. [dance recital](https://youtu.be/qjbq8nG72RI?t=34)
+8. [Pallavi (part of a Ragam Tanam Pallavi)](https://youtu.be/Jph6jzZM72A?t=16)
 
+#### Accompaniment to dance forms, bhajane and harikatha
+1. [Bharatanatyam](https://youtu.be/qjbq8nG72RI?t=34)
+2. [Bhajane](https://www.youtube.com/watch?v=6rUJEr7cCb0&t=356s)
+3. [Harikatha](https://www.youtube.com/watch?v=Vy7DoFIJx-4)
 
 ### Tani-avartanam --- Mridangam solo
 A few examples of tani-avartanam and their elements
@@ -46,13 +49,16 @@ A few examples of tani-avartanam and their elements
 12. [The Art of the Korvai](https://www.youtube.com/watch?v=UElp04xS5zg)
 
 #### Analysis of a Tani-avartanam by K S Kalidas (Student of Palani Subramania Pillai)
-* [Start of Thani in slower speed with Theermanams](https://www.youtube.com/watch?v=dG1LZ5-RDoU)
-* [Changes Nadai to Tisram , multiple sequences of mridangam and ghatam](https://youtu.be/dG1LZ5-RDoU?t=260)
-* [Comes back to Chatusra Nadai and does Kuraippu](https://youtu.be/dG1LZ5-RDoU?t=664)
-* [Farans](https://youtu.be/dG1LZ5-RDoU?t=968)
-* [Finale with Mohra and Korvai](https://youtu.be/dG1LZ5-RDoU?t=1008)
+1. [Start of Thani in slower speed with Theermanams](https://www.youtube.com/watch?v=dG1LZ5-RDoU)
+2. [Changes Nadai to Tisram , multiple sequences of mridangam and ghatam](https://youtu.be/dG1LZ5-RDoU?t=260)
+3. [Comes back to Chatusra Nadai and does Kuraippu](https://youtu.be/dG1LZ5-RDoU?t=664)
+4. [Farans](https://youtu.be/dG1LZ5-RDoU?t=968)
+5. [Finale with Mohra and Korvai](https://youtu.be/dG1LZ5-RDoU?t=1008)
+
+
 
 ## Tabla
+
 ### Initial lessons in tabla
 1. [Basic strokes](https://chandrakantha.com/tablasite/bsicbols.htm)
 2. [Hand posture and basics](https://www.youtube.com/watch?v=mLB4qblMi9M)
@@ -81,11 +87,15 @@ A few examples of tani-avartanam and their elements
 ### Tabla accompaniments
 1. [Accompaniment - Instructions](https://www.youtube.com/watch?v=b3FIVaFZdiM)
 2. [Instrumental accompaniment - instructions](https://www.youtube.com/watch?v=LNcTFNHEd2U)
-3. [Vocal Accompaniment](https://youtu.be/-2RycKJJKQY?t=1847)
+3. [Accompaniment for Khayal - Vocal](https://youtu.be/-2RycKJJKQY?t=1847)
 4. [Explanation of Theka by Zakir Hussain](https://youtu.be/rlCWnGwWqXk?t=155)
 5. [Explanation of Theka by Trichy Shankaran](https://youtu.be/8OmSC0TL8YQ?t=1176)
 6. [Cross rhythms](https://youtu.be/-2RycKJJKQY?t=1707)
-7. [Accompaniment to kathak](https://www.youtube.com/watch?v=KDSNydogusg)
+7. [Accompaniment to Instrumental - Bansuri](https://youtu.be/O2K0ptoYpuc?t=1989)
+8. [Accompaniment to Instrumental - Sitar](https://www.youtube.com/watch?v=fg_sHArZj4s)
+9. [Sawal Jawab Sarod-Tabla](https://www.youtube.com/watch?v=HtEb7RfDri0)
+10. [Accompaniment to kathak](https://www.youtube.com/watch?v=KDSNydogusg)
+11. [Sawal Jawab in dance performance](https://youtu.be/mPmtGGxjKx0?t=44)
 
 ### Tabla solo
 1. [Structure of tabla solo](https://youtu.be/rlCWnGwWqXk?t=215)
@@ -98,7 +108,7 @@ A few examples of tani-avartanam and their elements
 1. [Zakir Hussain - 4 Drummer](https://www.youtube.com/watch?v=Zy_CvwElJ28)
 2. [Laya Vinyasa](https://www.youtube.com/watch?v=IjU2AJq34oo): In this concert, the carnatic flute is used as a melodic accompaniment.
 3. [Tala Vadya Kacheri](https://www.youtube.com/watch?v=pViExwiwQTA) - along with explanation by Umayalpuram K. Sivaraman and Team.
-4. [Taal Vadya Kacheri](https://www.youtube.com/watch?v=FS6ec2QUxSI) - with a theme Shiv Tandav by T H Vikku Vinayakram
+4. [Taal Vadya Kacheri](https://www.youtube.com/watch?v=FS6ec2QUxSI) - with a theme Shiv Tandav by T. H. Vikku Vinayakram
 
 
 ### Additional listening
@@ -106,16 +116,8 @@ A few examples of tani-avartanam and their elements
 2. [Society of Indian Record Collectors](https://archive.org/details/MudritSangeet)
 3. [Society of Indian Record Collectors - Classical archive](https://archive.org/details/@chandoba1952?and%5B%5D=Tabla)
 4. [Digital archive of north Indian classical music](https://eap.bl.uk/project/EAP132)
-5. [Additional listening Percussive accompaniment](https://youtu.be/5ieDfX2-sM8?t=882)
-6. [Konnakol based on Fibonacci Series](https://www.youtube.com/watch?v=mOMLRMfIYf0)
-7. [Listen to varnam Mohamana in Bhairavi ](https://youtu.be/71nuLFVXzjc) (a recording from one of T.Balasaraswati ‘s dance recitals shared by her cousin T Sankaran); we hear the raga being played by the clarinet prior to the start of the varnam ; In the biography 
-8. [Nadaswaram and thavil renditions](https://www.youtube.com/playlist?list=PLTxTDSSOEwjJuaQo6dHHJQFA0aIAa1f-T)
-
-
-Maratha traditions such as Kathas, [Bhajans](https://youtu.be/8ON3q8XXyLQ) and folk dances [(Lavani)](https://youtu.be/GOEJZslEu6I) ; Tanjore was ruled by Marathas between 17–19th centuries. 
-[Bhajana](https://youtu.be/6rUJEr7cCb0?t=356)
-[Harikathe](https://youtu.be/Vy7DoFIJx-4)
-
+5. [Konnakol based on Fibonacci Series](https://www.youtube.com/watch?v=mOMLRMfIYf0)
+6. [Nadaswaram and thavil renditions](https://www.youtube.com/playlist?list=PLTxTDSSOEwjJuaQo6dHHJQFA0aIAa1f-T)
 
 
 ### Additional readings and references
