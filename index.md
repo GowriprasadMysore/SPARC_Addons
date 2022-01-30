@@ -30,11 +30,9 @@ This section provides an example audio/video for the mridangam accompaniment for
 4. [Neraval](https://youtu.be/0kFLHBihXbY)
 5. [Swara Kalpana - 1](https://youtu.be/Peg8m5Jb2b0) [Swara Kalpana - 2](https://youtu.be/U-vThKPxv6U?t=3027)
 6. [during singing of Tanam(mainly in Kerala)](https://youtu.be/vJBF3AM_an4?t=1039)
-7. [during Pallavi (part of a Ragam Tanam Pallavi)](https://youtu.be/Jph6jzZM72A?t=16)
-8. [here is an instance of the mridangam responding to the kalpana svara improvisation](https://youtu.be/NInq5v472zs?t=1067)
+7. [Theermanams in kritis](https://youtu.be/FG8qGgXZDNY?t=1069)
+8. [during Pallavi (part of a Ragam Tanam Pallavi)](https://youtu.be/Jph6jzZM72A?t=16)
 9. [dance recital](https://youtu.be/qjbq8nG72RI?t=34)
-10. [Theermanams in kritis](https://youtu.be/FG8qGgXZDNY?t=1069)
-
 
 
 ### Tani-avartanam --- Mridangam solo
