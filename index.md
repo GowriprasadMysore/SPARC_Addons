@@ -50,7 +50,7 @@ A few examples of tani-avartanam and their elements
 8. [Korapu - 1](https://youtu.be/mGFxqw7nIcs) can be translated as “rhythmic descent” or “step by step reduction”. 
 9. [Korapu - 2](https://youtu.be/iZXfx7pRJ5s)
 
-#### Analysis of a Tani Avartanam — Percussion Solo
+#### Analysis of a Tani-avartanam
 Artise: Palani Subramania Pillai, the legendary mridangam maestro of the Puddukottai school; 
 Interpreter: K S Kalidas (Student of Palani Subramania Pillai)
 
@@ -69,7 +69,7 @@ Interpreter: K S Kalidas (Student of Palani Subramania Pillai)
 ### Basic tal in Tabla
 1. [Basics of taal and teen taal](https://www.youtube.com/watch?v=X1YmwoeBwYk)
 2. [Concept of taal](https://www.youtube.com/watch?v=xcPUnpOLDYM)
-3. [Teen taal, by zakir hussain](https://youtu.be/rlCWnGwWqXk?t=173)
+3. [Teen taal, by Zakir Hussain](https://youtu.be/rlCWnGwWqXk?t=173)
 4. [Teen taal](https://www.youtube.com/watch?v=RYm_mjrxquo)
 5. [Ektaal](https://www.youtube.com/watch?v=-6VpKG1Iq_Y)
 
