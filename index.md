@@ -2,25 +2,22 @@
 
 ### Initial lessons in mridangam
 
-1. [basic exercises to play with good timbre](https://youtu.be/biXasK3X2EI)
-2. [Learning to play the following rhythmic syllables](https://www.youtube.com/watch?v=hlJXnyEupDs&t=49s)
-3. [Playing the following rhythmic syllables with clarity](https://www.youtube.com/watch?v=EpD0LYmhQkI&list=PLBjXyeBZLWCUAaiRn4dNlf_atzoiz_ofv&index=4)
-4. [llustration of how Adi Tala is played in the Pudukottai school](https://youtu.be/8OmSC0TL8YQ?t=1272)
-5. [Learning to play combinations of rhythmic syllables on mridangam](https://youtu.be/hlJXnyEupDs?t=1067)
-6. [Importance of the left side head thoppi](https://youtu.be/7u-hiSKwUd8?t=255)
+1. [Basic stroke exercises](https://youtu.be/biXasK3X2EI)
+2. [Rhythmic syllables exercise - 1](https://www.youtube.com/watch?v=hlJXnyEupDs&t=49s)
+3. [Rhythmic syllables exercise - 2](https://www.youtube.com/watch?v=EpD0LYmhQkI&list=PLBjXyeBZLWCUAaiRn4dNlf_atzoiz_ofv&index=4)
+4. [Rhythmic stroke combinations](https://youtu.be/hlJXnyEupDs?t=1067)
+5. [Importance of the left side head thoppi](https://youtu.be/7u-hiSKwUd8?t=255)
 
-
-
-The concept of Nadais, with the illustrates examples in different tempos :
+The concept of Nadais, with the illustrates examples in different tempi all in adi tala:
 1. [Chauka Kala Nadai (slow tempo)](https://youtu.be/fk07KY7lPlo?t=3864)
 2. [Madyama Kala Nadai (medium tempo)](https://youtu.be/fk07KY7lPlo?t=3907)
-3. [Dhurita Kala Nadai (fast tempo), all in Adi Tala](https://youtu.be/fk07KY7lPlo?t=3953)
+3. [Dhurita Kala Nadai (fast tempo)](https://youtu.be/fk07KY7lPlo?t=3953)
 
 
-
-### Schools of percussion mridangam bani and tabla gharanas
+### Schools of mridangam --- Bani
 [Tanjavur and Pudukotai Bani](https://youtu.be/_83dUdLw87o?t=99) From Erickavu N Sunil ()
-[Guru (Teacher) Sishya (Student) Tree](http://www.carnaticcorner.com/articles/guru-sishya-mridangists.html) of Mridangists lists the legendary mridangists from the Pudukottai and Tanjore schools
+[Adi tala illustration --- Pudukottai school](https://youtu.be/8OmSC0TL8YQ?t=1272)
+[Guru (Teacher) Sishya (Student) lineage Tree](http://www.carnaticcorner.com/articles/guru-sishya-mridangists.html) of mridangam players from the Pudukottai and Tanjore schools.
 
 
 ### Mridangam accompaniment to Carnatic music
@@ -43,28 +40,25 @@ This section provides an example audio/video for the mridangam accompaniment for
 ### Tani-avartanam --- Mridangam solo
 
 A few examples of tani-avartanam and their elements
-1. [Tani Avartanam](https://www.youtube.com/user/indiandrumbeats/videos)
-2. [Tani avartanam by Trichi Shankaran](https://www.youtube.com/watch?v=5OX2TuHmtSI)
-3. [Theermanams](https://youtu.be/8OmSC0TL8YQ?t=3688)
-4. [Farans](https://youtu.be/fk07KY7lPlo?t=5540)
-5. [Format of Mohra](https://youtu.be/d8_NvS3DJ2E?t=244)
-6. [Example for mohra](https://youtu.be/fk07KY7lPlo?t=5577)
-7. [Kuraippu](https://youtu.be/mGFxqw7nIcs) can be translated as “rhythmic descent” or “step by step reduction”. 
-8. [Korapu in Adi Tala](https://youtu.be/iZXfx7pRJ5s)
-9. [Rhythmic Descent in Karnatic Music — Principles, Practice and standardization by Mannarkoil Balaji](https://www.academia.edu/36662438/Rhythmic_Descent_in_Karnatic_Music_Principles_Practice_and_standardization)
+1. [Elements and structure of Tani Avartanam --- an explanation](https://youtu.be/2hIAK8XGIT4)
+2. [Tani Avartanam](https://www.youtube.com/user/indiandrumbeats/videos)
+3. [Tani avartanam by Trichi Shankaran](https://www.youtube.com/watch?v=5OX2TuHmtSI)
+4. [Theermanams](https://youtu.be/8OmSC0TL8YQ?t=3688)
+5. [Farans](https://youtu.be/fk07KY7lPlo?t=5540)
+6. [Format of mohra](https://youtu.be/d8_NvS3DJ2E?t=244)
+7. [Example for mohra](https://youtu.be/fk07KY7lPlo?t=5577)
+8. [Korapu - 1](https://youtu.be/mGFxqw7nIcs) can be translated as “rhythmic descent” or “step by step reduction”. 
+9. [Korapu - 2](https://youtu.be/iZXfx7pRJ5s)
 
+#### Analysis of a Tani Avartanam — Percussion Solo
+Artise: Palani Subramania Pillai, the legendary mridangam maestro of the Puddukottai school; 
+Interpreter: K S Kalidas
 
-
-
-Analysis of a Tani Avartanam — Percussion Solo
-Let us see these fundamental concepts of come to life in this wonderful percussion solo played by Palani Subramania Pillai, the legendary mridangam maestro of the Puddukottai school; his student K S Kalidas helps us understand these facets as they unfold :
-[Elements and structure of Tani Avartanam](https://youtu.be/2hIAK8XGIT4)
-
-[Start of Thani in slower speed with Theermanams](https://www.youtube.com/watch?v=dG1LZ5-RDoU)
-[Changes Nadai to Tisram , multiple sequences of mridangam and ghatam](https://youtu.be/dG1LZ5-RDoU?t=260)
-[Comes back to Chatusra Nadai and does Kuraippu](https://youtu.be/dG1LZ5-RDoU?t=664)
-[Farans](https://youtu.be/dG1LZ5-RDoU?t=968)
-[Finale with Mohra and Korvai](https://youtu.be/dG1LZ5-RDoU?t=1008)
+* [Start of Thani in slower speed with Theermanams](https://www.youtube.com/watch?v=dG1LZ5-RDoU)
+* [Changes Nadai to Tisram , multiple sequences of mridangam and ghatam](https://youtu.be/dG1LZ5-RDoU?t=260)
+* [Comes back to Chatusra Nadai and does Kuraippu](https://youtu.be/dG1LZ5-RDoU?t=664)
+* [Farans](https://youtu.be/dG1LZ5-RDoU?t=968)
+* [Finale with Mohra and Korvai](https://youtu.be/dG1LZ5-RDoU?t=1008)
 
 
 
@@ -97,7 +91,7 @@ Maratha traditions such as Kathas, [Bhajans](https://youtu.be/8ON3q8XXyLQ) and f
 [Tala](https://www.wikiwand.com/en/Tala_(music))
 
 
-
+[Korapu](https://www.academia.edu/36662438/Rhythmic_Descent_in_Karnatic_Music_Principles_Practice_and_standardization) - Rhythmic Descent in Karnatic Music — Principles, Practice and standardization by Mannarkoil Balaji
 
 
 
