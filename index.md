@@ -61,6 +61,9 @@ Interpreter: K S Kalidas (Student of Palani Subramania Pillai)
 * [Finale with Mohra and Korvai](https://youtu.be/dG1LZ5-RDoU?t=1008)
 
 
+### Initial lessons in tabla
+[Basic strokes](https://chandrakantha.com/tablasite/bsicbols.htm)
+[Hand posture and basics](https://www.youtube.com/watch?v=mLB4qblMi9M)
 
 ### Basics in Tabla
 [ Teen Taal, by zakir hussain](https://youtu.be/rlCWnGwWqXk?t=173)
