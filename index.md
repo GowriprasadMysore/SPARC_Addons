@@ -15,9 +15,9 @@ The concept of Nadais, with the illustrates examples in different tempi all in a
 
 
 ### Schools of mridangam --- Bani
-[Tanjavur and Pudukotai Bani](https://youtu.be/_83dUdLw87o?t=99) From Erickavu N Sunil ()
-[Adi tala illustration --- Pudukottai school](https://youtu.be/8OmSC0TL8YQ?t=1272)
-[Guru (Teacher) Sishya (Student) lineage Tree](http://www.carnaticcorner.com/articles/guru-sishya-mridangists.html) of mridangam players from the Pudukottai and Tanjore schools.
+1. [Tanjavur and Pudukotai Bani](https://youtu.be/_83dUdLw87o?t=99) From Erickavu N Sunil
+2. [Adi tala illustration --- Pudukottai school](https://youtu.be/8OmSC0TL8YQ?t=1272)
+3. [Guru (Teacher) Sishya (Student) lineage Tree](http://www.carnaticcorner.com/articles/guru-sishya-mridangists.html) of mridangam players from the Pudukottai and Tanjore schools.
 
 
 ### Mridangam accompaniment to Carnatic music
@@ -52,7 +52,7 @@ A few examples of tani-avartanam and their elements
 
 #### Analysis of a Tani Avartanam — Percussion Solo
 Artise: Palani Subramania Pillai, the legendary mridangam maestro of the Puddukottai school; 
-Interpreter: K S Kalidas
+Interpreter: K S Kalidas (Student of Palani Subramania Pillai)
 
 * [Start of Thani in slower speed with Theermanams](https://www.youtube.com/watch?v=dG1LZ5-RDoU)
 * [Changes Nadai to Tisram , multiple sequences of mridangam and ghatam](https://youtu.be/dG1LZ5-RDoU?t=260)
