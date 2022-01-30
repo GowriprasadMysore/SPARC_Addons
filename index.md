@@ -100,6 +100,12 @@ Interpreter: K S Kalidas (Student of Palani Subramania Pillai)
 4. [Tabla solo by various artistes](https://www.youtube.com/playlist?list=PLeMnggaMTpf1g6kq9fjhOAVIVecf3YQ6O)
 
 
+### Percussion ensamble: Tala Vaadya Kaceri
+1. [Zakir Hussain - 4 Drummer](https://www.youtube.com/watch?v=Zy_CvwElJ28)
+2. [Laya Vinyasa](https://www.youtube.com/watch?v=IjU2AJq34oo): In this concert, the carnatic flute is used as a melodic accompaniment.
+3. [Tala Vadya Kacheri](https://www.youtube.com/watch?v=pViExwiwQTA) - along with explanation by Umayalpuram K. Sivaraman and Team.
+4. [Taal Vadya Kacheri](https://www.youtube.com/watch?v=FS6ec2QUxSI) - with a theme Shiv Tandav by T H Vikku Vinayakram
+
 
 ### Additional readings and references
 1. [Tala](https://www.wikiwand.com/en/Tala_(music))
@@ -111,11 +117,14 @@ Interpreter: K S Kalidas (Student of Palani Subramania Pillai)
 7. [Solo Tabla Drumming of North India](https://www.amazon.in/Solo-Tabla-Drumming-North-India/dp/8120810953) - Robert S. Gottlieb
 8. [The Art of Tabl ̄a Rhythm: Essentials, Tradition, and Creativity](https://www.amazon.in/Art-Tabla-Rhythm-Essentials-Creativity/dp/8124603685) - Sudhir Kumar Saxena
 9. [Resounding Mridangam: The Majestic South-Indian Drum](https://www.amazon.in/Resounding-Mridangam-Majestic-South-Indian-Drum/dp/B08XXZXRDY/ref=sr_1_1?crid=QKB7KG8E9WM3&keywords=Resounding+Mridangam%3A+The+Majestic+South+Indian+Drum.&qid=1643544233&s=books&sprefix=resounding+mridangam+the+majestic+south+indian+drum.+%2Cstripbooks%2C350&sr=1-1) - Erickavu N Sunil
+10. [Rhythmic Aspects- Layanubhava](http://carnatica.net/sangeet/layanubhava1.htm)
+11. [Taal Vadya Kacheri](https://tabla.org/taalvadya-kachari)
 
 
 
 
 ### Additional listening
+[Carnatic Music Krithi Audio Archive](http://www.shivkumar.org/music/index.html)
 [Additional listening Percussive accompaniment](https://youtu.be/5ieDfX2-sM8?t=882)
 [Listen to varnam Mohamana in Bhairavi ](https://youtu.be/71nuLFVXzjc) (a recording from one of T.Balasaraswati ‘s dance recitals shared by her cousin T Sankaran); we hear the raga being played by the clarinet prior to the start of the varnam ; In the biography 
 
