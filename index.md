@@ -101,6 +101,23 @@ A few examples of tani-avartanam and their elements
 4. [Taal Vadya Kacheri](https://www.youtube.com/watch?v=FS6ec2QUxSI) - with a theme Shiv Tandav by T H Vikku Vinayakram
 
 
+### Additional listening
+1. [Carnatic Music Krithi Audio Archive](http://www.shivkumar.org/music/index.html)
+2. [Society of Indian Record Collectors](https://archive.org/details/MudritSangeet)
+3. [Society of Indian Record Collectors - Classical archive](https://archive.org/details/@chandoba1952?and%5B%5D=Tabla)
+4. [Digital archive of north Indian classical music](https://eap.bl.uk/project/EAP132)
+5. [Additional listening Percussive accompaniment](https://youtu.be/5ieDfX2-sM8?t=882)
+6. [Konnakol based on Fibonacci Series](https://www.youtube.com/watch?v=mOMLRMfIYf0)
+7. [Listen to varnam Mohamana in Bhairavi ](https://youtu.be/71nuLFVXzjc) (a recording from one of T.Balasaraswati ‘s dance recitals shared by her cousin T Sankaran); we hear the raga being played by the clarinet prior to the start of the varnam ; In the biography 
+8. [Nadaswaram and thavil renditions](https://www.youtube.com/playlist?list=PLTxTDSSOEwjJuaQo6dHHJQFA0aIAa1f-T)
+
+
+Maratha traditions such as Kathas, [Bhajans](https://youtu.be/8ON3q8XXyLQ) and folk dances [(Lavani)](https://youtu.be/GOEJZslEu6I) ; Tanjore was ruled by Marathas between 17–19th centuries. 
+[Bhajana](https://youtu.be/6rUJEr7cCb0?t=356)
+[Harikathe](https://youtu.be/Vy7DoFIJx-4)
+
+
+
 ### Additional readings and references
 1. [THE ART OF ACCOMPANIMENT - TABLA-SANGAT](https://www.india-instruments.com/the-art-of-accompaniment-tabla-sangat-with-ashis-paul.html)
 2. [Korapu](https://www.academia.edu/36662438/Rhythmic_Descent_in_Karnatic_Music_Principles_Practice_and_standardization) - Rhythmic Descent in Carnatic music — Principles, Practice and standardization by Mannarkoil Balaji
@@ -115,25 +132,6 @@ A few examples of tani-avartanam and their elements
 11. [Hindustani gharana](https://www.wikiwand.com/en/Gharana)
 12. [Hindustani Music References](https://medium.com/kavyavriksha/hindustani-music-references-f1c850c10530)
 13. [Evolution and Fundamentals of Mridangam Percussion Accompaniment](https://medium.com/kavyavriksha/evolution-and-fundamentals-of-mridangam-percussion-accompaniment-9a4d63cc6ac0)
-
-
-
-
-### Additional listening
-[Carnatic Music Krithi Audio Archive](http://www.shivkumar.org/music/index.html)
-[Society of Indian Record Collectors](https://archive.org/details/MudritSangeet)
-[Society of Indian Record Collectors - Classical archive](https://archive.org/details/@chandoba1952?and%5B%5D=Tabla)
-[Digital archive of north Indian classical music](https://eap.bl.uk/project/EAP132)
-[Additional listening Percussive accompaniment](https://youtu.be/5ieDfX2-sM8?t=882)
-[Konnakol based on Fibonacci Series](https://www.youtube.com/watch?v=mOMLRMfIYf0)
-[Listen to varnam Mohamana in Bhairavi ](https://youtu.be/71nuLFVXzjc) (a recording from one of T.Balasaraswati ‘s dance recitals shared by her cousin T Sankaran); we hear the raga being played by the clarinet prior to the start of the varnam ; In the biography 
-
-Maratha traditions such as Kathas, [Bhajans](https://youtu.be/8ON3q8XXyLQ) and folk dances [(Lavani)](https://youtu.be/GOEJZslEu6I) ; Tanjore was ruled by Marathas between 17–19th centuries. 
-[Bhajana](https://youtu.be/6rUJEr7cCb0?t=356)
-[Harikathe](https://youtu.be/Vy7DoFIJx-4)
-
-[Nadaswaram and thavil renditions](https://www.youtube.com/playlist?list=PLTxTDSSOEwjJuaQo6dHHJQFA0aIAa1f-T)
-
 
 
 
