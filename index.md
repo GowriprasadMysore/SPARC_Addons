@@ -88,11 +88,12 @@ Interpreter: K S Kalidas (Student of Palani Subramania Pillai)
 
 ### Tabla accompaniments
 
-1. [Vocal Accompaniment](https://youtu.be/-2RycKJJKQY?t=1847)
-2. [Basic theka for instrumental by zakir hussain](https://youtu.be/rlCWnGwWqXk?t=204)
-3. [Cross rhythms](https://youtu.be/-2RycKJJKQY?t=1707)
+1. [Accompaniment - Instructions](https://www.youtube.com/watch?v=b3FIVaFZdiM)
+2. [Instrumental accompaniment - instructions](https://www.youtube.com/watch?v=LNcTFNHEd2U)
+3. [Vocal Accompaniment](https://youtu.be/-2RycKJJKQY?t=1847)
 4. [Explanation of Theka by Zakir Hussain](https://youtu.be/rlCWnGwWqXk?t=155)
 5. [Explanation of Theka by Trichy Shankaran](https://youtu.be/8OmSC0TL8YQ?t=1176)
+6. [Cross rhythms](https://youtu.be/-2RycKJJKQY?t=1707)
 
 ### Tabla solo
 1. [Structure of tabla solo](https://youtu.be/rlCWnGwWqXk?t=215)
@@ -119,6 +120,6 @@ Maratha traditions such as Kathas, [Bhajans](https://youtu.be/8ON3q8XXyLQ) and f
 
 [Korapu](https://www.academia.edu/36662438/Rhythmic_Descent_in_Karnatic_Music_Principles_Practice_and_standardization) - Rhythmic Descent in Karnatic Music — Principles, Practice and standardization by Mannarkoil Balaji
 
-
+[THE ART OF ACCOMPANIMENT - TABLA-SANGAT](https://www.india-instruments.com/the-art-of-accompaniment-tabla-sangat-with-ashis-paul.html)
 
 
