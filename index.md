@@ -42,7 +42,7 @@ A few examples of tani-avartanam and their elements
 5. [Farans](https://youtu.be/fk07KY7lPlo?t=5540)
 6. [Format of mohra](https://youtu.be/d8_NvS3DJ2E?t=244)
 7. [Example for mohra](https://youtu.be/fk07KY7lPlo?t=5577)
-8. [Korapu - 1](https://youtu.be/mGFxqw7nIcs) can be translated as “rhythmic descent” or “step by step reduction”. 
+8. [Korapu - 1](https://youtu.be/mGFxqw7nIcs)
 9. [Korapu - 2](https://youtu.be/iZXfx7pRJ5s)
 10. [Koravi- an explanation](https://youtu.be/aGUK9-tyVAs?t=2814)
 11. [Koravi](https://youtu.be/EEAWV1EeGXY?t=332)
@@ -81,6 +81,7 @@ A few examples of tani-avartanam and their elements
 7. [Farrukhabad gharana](https://youtu.be/S6v9hsuPpa4?t=26)
 8. [Punjab gharana](https://www.youtube.com/watch?v=RL90kOckPAY)
 9. [Ti Re Ki Ta by Zakir Hussain](https://youtu.be/q4u0AEl7xHw)
+10. [Lineage and practices](https://digitabla.com/tabla-tradition/)
 
 
 ### Tabla accompaniments
