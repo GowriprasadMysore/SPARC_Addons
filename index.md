@@ -8,7 +8,7 @@
 4. [Rhythmic stroke combinations](https://youtu.be/hlJXnyEupDs?t=1067)
 5. [Importance of the left side head thoppi](https://youtu.be/7u-hiSKwUd8?t=255)
 
-##### The concept of Nadais, with the illustrates examples in different tempi all in adi tala:
+#### The concept of Nadais, with the illustrates examples in different tempi all in adi tala:
 1. [Chauka Kala Nadai (slow tempo)](https://youtu.be/fk07KY7lPlo?t=3864)
 2. [Madyama Kala Nadai (medium tempo)](https://youtu.be/fk07KY7lPlo?t=3907)
 3. [Dhurita Kala Nadai (fast tempo)](https://youtu.be/fk07KY7lPlo?t=3953)
@@ -28,7 +28,7 @@
 7. [Theermanams in kritis](https://youtu.be/FG8qGgXZDNY?t=1069)
 8. [Pallavi (part of a Ragam Tanam Pallavi)](https://youtu.be/Jph6jzZM72A?t=16)
 
-##### Accompaniment to dance forms, bhajane and harikatha
+#### Accompaniment to dance forms, bhajane and harikatha
 1. [Bharatanatyam](https://youtu.be/qjbq8nG72RI?t=34)
 2. [Bhajane](https://www.youtube.com/watch?v=6rUJEr7cCb0&t=356s)
 3. [Harikatha](https://www.youtube.com/watch?v=Vy7DoFIJx-4)
@@ -48,7 +48,7 @@ A few examples of tani-avartanam and their elements
 11. [Koravi](https://youtu.be/EEAWV1EeGXY?t=332)
 12. [The Art of the Korvai](https://www.youtube.com/watch?v=UElp04xS5zg)
 
-##### Analysis of a Tani-avartanam by K S Kalidas (Student of Palani Subramania Pillai)
+#### Analysis of a Tani-avartanam by K S Kalidas (Student of Palani Subramania Pillai)
 1. [Start of Thani in slower speed with Theermanams](https://www.youtube.com/watch?v=dG1LZ5-RDoU)
 2. [Changes Nadai to Tisram , multiple sequences of mridangam and ghatam](https://youtu.be/dG1LZ5-RDoU?t=260)
 3. [Comes back to Chatusra Nadai and does Kuraippu](https://youtu.be/dG1LZ5-RDoU?t=664)
