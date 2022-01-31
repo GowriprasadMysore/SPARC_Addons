@@ -102,6 +102,14 @@ A few examples of tani-avartanam and their elements
 3. [Tabla solo - Pt. Kishan Maharaj (Benaras gharana)](https://www.youtube.com/watch?v=YDpbRSRB0zE)
 4. [Tabla solo by various artistes](https://www.youtube.com/playlist?list=PLeMnggaMTpf1g6kq9fjhOAVIVecf3YQ6O)
 
+### Classical jugalbandis
+1. [Vocal, Bhimsen Joshi - Balamuralikrishna](https://www.youtube.com/watch?v=uWPFHYvGav4)
+2. [Vocal and instrumental](https://www.youtube.com/watch?v=U1cM_fYohIo)
+3. [Instrumental Violin - Sarod](https://www.youtube.com/watch?v=ChLKGBbaBPg)
+4. [Tani-avartanam mridangam and tabla](https://www.youtube.com/watch?v=JvFUxOjk4_M)
+5. [Carnatic veena with tabla](https://www.youtube.com/watch?v=sFLh4uYxbe0)
+6. [Hindustani sitar with tabla and mridangam](https://www.youtube.com/watch?v=LH7Jzwjp41w)
+
 
 ### Percussion ensamble: Tala Vaadya Kaceri
 1. [Zakir Hussain - 4 Drummer](https://www.youtube.com/watch?v=Zy_CvwElJ28)
