@@ -130,7 +130,7 @@ A few examples of tani-avartanam and their elements
 
 ### Additional readings and references
 1. [THE ART OF ACCOMPANIMENT - TABLA-SANGAT](https://www.india-instruments.com/the-art-of-accompaniment-tabla-sangat-with-ashis-paul.html)
-2. [Korapu](https://www.academia.edu/36662438/Rhythmic_Descent_in_Karnatic_Music_Principles_Practice_and_standardization) - Rhythmic Descent in Carnatic music — Principles, Practice and standardization by Mannarkoil Balaji
+2. [Korapu - Rhythmic Descent in Carnatic music](https://www.academia.edu/36662438/Rhythmic_Descent_in_Karnatic_Music_Principles_Practice_and_standardization) 
 3. [Balasaraswati: Her Art and Life](https://www.amazon.com/Balasaraswati-Douglas-M-Knight-Jr/dp/9387578127/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 4. [Nad - Understanding Raga music](https://www.amazon.in/Nad-BPI-India/dp/8186982078/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 5. [Tabla: A Performer’s Perspective](https://aneeshpradhan.com/product/tabla-a-performers-perspective/) - Aneesh Pradhan
