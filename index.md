@@ -1,4 +1,4 @@
-## Chapter 11 -- SPARC Monograph Additional Contents
+## Chapter 11 -- A Comparison of Percussion Instruments in Hindustani and Carnatic Music
 
 ## Mridangam
 ### Initial lessons in mridangam
